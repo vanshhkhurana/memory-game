@@ -1,4 +1,4 @@
-/*added js file*/
+/*added js code*/
 document.addEventListener("DOMContentLoaded", function() {
     const emojis = ["❤️","❤️","😎","😎","😭","😭","👻","👻","😈","😈","👀","👀","🦆","🦆","🍕","🍕"];
     const gameContainer = document.querySelector('.game');
