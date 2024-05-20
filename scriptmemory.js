@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function() {
         gameContainer.innerHTML = '';
         createGameBoard();
     }
-/*made changes to css*/
+/*made changes to js*/
     function createGameBoard() {
         shufemojis.forEach(emoji => {
             const box = document.createElement('div');
