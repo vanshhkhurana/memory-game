@@ -1,6 +1,6 @@
 /*added js code*/
 document.addEventListener("DOMContentLoaded", function() {
-    const emojis = ["💖","💖","💀","💀","😭","😭","👻","👻","😈","😈","👀","👀","🦆","🦆","🍕","🍕"];
+    const emojis = ["💖","💖","💀","💀","🐣","🐣","👻","👻","😈","😈","👀","👀","🦆","🦆","🍕","🍕"];
     const gameContainer = document.querySelector('.game');
     const resetButton = document.querySelector('.reset');
     let shufemojis = shuffle(emojis);
