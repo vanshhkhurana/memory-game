@@ -42,7 +42,7 @@ h2{
     cursor: pointer;
     font-weight: 600;
 }
-
+/*CSS FOR RESET BUTTON*/
 .reset:focus{
     color: white;
     background: #267c65;
